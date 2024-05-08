@@ -11,18 +11,18 @@ function Projects() {
   
   let component
 
-  switch(window.location.pathname) {
-    case "/":
-      component = <Projects />
-      break
-    case "/projects/project01":
-      component = <Project01 />
-      break
-    case "/projects/project02":
-      component = <Project02 />
-      break
+  // switch(window.location.pathname) {
+  //   case "/":
+  //     component = <Projects />
+  //     break
+  //   case "/projects/project01":
+  //     component = <Project01 />
+  //     break
+  //   case "/projects/project02":
+  //     component = <Project02 />
+  //     break
 
-  }
+  // }
 
   return (
 

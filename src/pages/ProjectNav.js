@@ -3,11 +3,11 @@ export default function ProjectNav() {
   const path = window.location.pathname
 
   return (
-    <nav >
+    <nav className="projectsNav">
 
-      <a href="/projects">
+      {/* <a href="/projects">
         Projects List
-      </a>
+      </a> */}
 
       <ul>
         <li>

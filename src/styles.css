@@ -4,6 +4,7 @@
   
   body {
     margin: 0;
+    background-color: black;
   }
   
   .container {
@@ -49,3 +50,81 @@
   .nav li:hover {
     background-color: #777;
   }
+
+  .projectsNav {
+    text-align: left;
+  }
+
+.to-do-list {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1{
+  font-size: 2rem;
+  color: white;
+}
+
+button{
+  font-size: 0.5rem;
+  font-weight: bold;
+  padding: 5px 10px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+
+}
+
+button:hover{
+  background-color:brown;
+}
+
+.to-do-delete-button {
+  background-color: red;
+
+}
+
+.to-do-up-button {
+  background-color: green;
+  
+}
+
+.to-do-down-button {
+  background-color: orange;
+  
+}
+
+.to-do-add-button {
+  background-color: blue;
+  
+}
+
+.to-do-input[type="text"]{
+  font-size: 1rem;
+  padding: 10px;
+  border: 2px sold blue;
+  border-radius: 5px;
+  color: blue;
+}
+
+.to-do-ol-list{
+  padding: 2;
+
+}
+
+.to-do-li-list{
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 15px;
+  background-color: antiquewhite;
+  margin-bottom: 10px;
+  border: 3px sold antiquewhite;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+
