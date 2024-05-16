@@ -23,7 +23,7 @@ export default function ProjectNav() {
         </li>
       </ul> */}
 
-      //change href to link to
+      
       <ul>
         <li>
           <Link to="/project01">Project01</Link>
