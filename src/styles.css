@@ -1,12 +1,19 @@
-* {
+*, *::before, *::after {
     box-sizing: border-box;
   }
   
-  body {
+  /* body {
     margin: 0;
     background-color: black;
-  }
+  } */
   
+  body {
+    margin: 0;
+    background-color: darkslategrey;
+  }
+
+
+
   .container {
     margin: 1rem;
     text-align: center;
@@ -73,7 +80,6 @@ button{
   color: white;
   border: none;
   border-radius: 5px;
-  margin-left: 10px;
   cursor: pointer;
   transition: background-color 0.5s ease;
 
