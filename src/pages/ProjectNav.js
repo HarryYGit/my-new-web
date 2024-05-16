@@ -26,10 +26,10 @@ export default function ProjectNav() {
       
       <ul>
         <li>
-          <Link to="/project01">Project01</Link>
+          <Link to="/project01">To Do List</Link>
         </li>
         <li>
-          <Link to="/project02">Project02</Link>
+          <Link to="/project02">Simple Calculator</Link>
         </li>
       </ul>
 

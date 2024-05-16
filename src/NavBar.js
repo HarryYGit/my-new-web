@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="nav">
       <Link to="/" className="site-title">
-        Site Name
+        Harry Yan
       </Link>
       <ul>
         <CustomLink to="/profile">Profile</CustomLink>
