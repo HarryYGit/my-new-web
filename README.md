@@ -1,6 +1,6 @@
 # My Profile Website
 
-[Demo:](http://haoranyan.xyz).
+[URL: haoranyan.xyz](http://haoranyan.xyz).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
