@@ -1,8 +1,10 @@
 # My Profile Website
 
-url:[http://haoranyan.xyz](http://haoranyan.xyz).
+url: [http://haoranyan.xyz](http://haoranyan.xyz)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- ReactJS
+- Tailwind CSS
 
 ## Available Scripts
 
